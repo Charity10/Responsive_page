@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+}
+
+.columns{
+    display: flex;
+    gap: 12em;
+}
+
+.lcol{
+    background: rgb(97, 1, 31);
+    color: white;
+    width: 30%;
+    padding: 1em;
+}
+
+.col{
+    width: 1  2em;
+}
